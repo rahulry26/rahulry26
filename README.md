@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center"> Devops Engineer at <a href=" Jio Platforms Limited"> Jio Platforms Limited</a></h3>
 <img align="right" width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
